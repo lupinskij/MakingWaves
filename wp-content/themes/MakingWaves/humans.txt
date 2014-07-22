@@ -1,0 +1,20 @@
+# humanstxt.org
+# It's an initiative for knowing the people behind a website.
+
+# TEAM
+
+    Jeff Lupinski - Developer
+    www.jefflupinski.com
+    @JeffLupinski
+    Providence, RI
+
+    Charice Lim - Designer
+    www.charicelim.com
+    Providence, RI
+
+    Seth Krasnianski - Host and Boilerplate
+    www.sjkstudios.com/
+
+# TECHNOLOGY
+
+    HTML5, CSS3, Sass+Compass, Gulp, Foundation, WordPress
